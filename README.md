@@ -1,5 +1,5 @@
 # movie-sentiment-analysis
-Exploring the use of CNNs on Sparse encodings. This is adapted from my Applied Machine Learning mini-project at The University of Edinburgh.
+Exploring the use of CNNs on sparse encodings. This is adapted from my Applied Machine Learning mini-project at The University of Edinburgh.
 
 'data_cleaning_and_EDA.ipynb': Juypter Notebook that details the cleaning and exploratory data analysis for the Stanford Movie Review phrase dataset
 
